@@ -1,0 +1,44 @@
+
+    #start{
+        padding: 10%;
+        background-image: url(../image/Vector-1.png);
+        width: 80%;
+       
+    }
+    div{
+        text-decoration-color: #3c4d6f;
+    }
+    #sat{
+        background-color: whitesmoke;
+        width: 30%;
+        float:right;
+        
+        padding-left: 5%;
+        padding-bottom: 3%;
+       
+    }
+    li{
+        display: inline;
+    }
+    #id{
+        
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: white;
+        text-align: center;
+
+    }
+    h1{
+        text-align: center;
+    }
+    table{
+        padding-left: 5%;
+        padding-right: 5%;
+        box-sizing: border-box;
+       
+    }
+    #d3{
+        text-align: center;
+        padding-bottom: 2%;
+    }
+    
+    
